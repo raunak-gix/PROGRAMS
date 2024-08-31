@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "ODEV",
+      "request": "launch",
+      "mainClass": "JAVA.ODEV",
+      "projectName": "PROGRAMS_8d9e48b6"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
