@@ -18,7 +18,7 @@ int main()
     }
     else
     {
-        printf("It is not a leave year");
+        printf("It is not a leap year.");
     }
     return 0;
 }

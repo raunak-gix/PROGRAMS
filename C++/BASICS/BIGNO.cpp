@@ -20,7 +20,7 @@ int main()
     {
         if(b>c)
         {
-            cout<<b<<" is max";
+            cout<<b<<" is max.";
         }
         if(b<c)
         {
